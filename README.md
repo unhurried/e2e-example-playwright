@@ -7,7 +7,7 @@ A simple E2E test project for [frontend-example-next](https://github.com/unhurri
 ```bash
 # Set up the project.
 npm install
-npx playright 
+npx playwright install
 
 # Run all the tests.
 npx playwright test
